@@ -1,7 +1,11 @@
 [index.html](https://github.com/user-attachments/files/22006156/index.html)
-<body>
-element.style{
-  backgroud:pink}
+<head>
+  <link rel="stylesheet"hret="style.css"/>
+  <ttulo>
+  </ttulo>
+  </head>
+    </body>
+
 <header>ALURAFLIX</header>
 
 
