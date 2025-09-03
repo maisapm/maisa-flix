@@ -1,21 +1,26 @@
-[index.html](https://github.com/user-attachments/files/22006156/index.html)
+
 <head>
-  <link rel="stylesheet"hret="style.css"/>
-  <ttulo>
-  </ttulo>
-  </head>
-    </body>
+    <link rel="stylesheet" href="styles.css">
+    <title>Aluraflix</title>
+</head>
 
-<header>ALURAFLIX</header>
+<body>
+    <header>ALURAFLIX</header>
 
+    <section>
+        <div>
+            <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+            <p>#homem-aranha</p>
+        </div>
 
-<h1>HOMEM ARANHA SUPERA O PRIMEIRO FILME ?</h1>
-<p>#homem-aranha</p>
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=TF7Y_pBhP29c5zHL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
 
 </body>
+
+</html>
