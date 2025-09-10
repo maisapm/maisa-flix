@@ -20,12 +20,12 @@
     
    <section class="categoria">
          <h2>Filmes e séries</h2>
-         <div class="categoria-videos">
+         <div >
              <a href=https://youtu.be/vtmm403l15Q?feature=shared>
-                 <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
+                 <img src="https://www.youtube.com/watch?v=vtmm403l15Q" />
              </a>
              <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
-                 <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
+                 <img src="https://www.youtube.com/watch?v=076h6h_7nw0" />
              </a>
              <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
                  <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
