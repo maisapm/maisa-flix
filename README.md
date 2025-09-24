@@ -21,26 +21,13 @@
            </a>
         </div>
     </section>
-    
-   <section class="categoria">
-         <h2>Filmes e séries</h2>
-         <div >
-             <img src="https://www.youtube.com/watch?v=vtmm403l15Q" />
-             </a>
-             <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
-                 <img src="https://www.youtube.com/watch?v=076h6h_7nw0" />
-             </a>
-             <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
-                 <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
-             </a>
-             <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
-                 <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
-             </a>
-             <a href="https://www.youtube.com/watch?v=d4DzMNGoyis">
-                 <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
-             </a>
+    <section>
+        <h2>filmese series</h2>
+        <div>
+            <img src="https://www.youtube.com/watch?v=t3ormxRMzvE"/>
         </div>
     </section>
+
 
 </body>
 
