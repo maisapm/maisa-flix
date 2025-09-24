@@ -24,7 +24,7 @@
     <section>
         <h2>filmese series</h2>
         <div>
-            <a href="
+            
             <img src="https://img.youtube.com/vi/YM5PrmGo4Hs/maxresdefault.jpg"/>
         </div>
     </section>
