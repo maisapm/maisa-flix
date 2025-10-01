@@ -7,17 +7,15 @@
 <body>
     <header>M ISAFLIX</header>
 
-        <div class="chamada-texto">
             <h1>Moranguinho | O jardim está cheio | Animação infantil | Episódio completo</h1>
             <p>#melhor desenho infantil de todos</p>
         </div>
 
         <div>
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/Bp2g49N9y2s?si=xFksXa6OfOmbcylr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>e><link rel="preconnect" href="https://fonts.googleapis.com">
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/PEWzXPDEAno?si=BuTHC4nDh1N3oOB1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
         </div>
-    </section>
     
     <section class="categoria">
         <h2>filmese series</h2
