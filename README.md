@@ -7,7 +7,6 @@
 <body>
     <header>M ISAFLIX</header>
 
-    <sectionclass="chamada">
         <div class="chamada-texto">
             <h1>Moranguinho | O jardim está cheio | Animação infantil | Episódio completo</h1>
             <p>#melhor desenho infantil de todos</p>
