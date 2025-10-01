@@ -20,6 +20,8 @@ section {
 }
 
 img{
+	.categoria-videos{
+		display: flex;
 	
 
 .chamada-texto {
